@@ -1,3 +1,5 @@
+#that's my custom middleware
+
 from django.db import connection
 from pygments import highlight
 from pygments.formatters import TerminalFormatter
